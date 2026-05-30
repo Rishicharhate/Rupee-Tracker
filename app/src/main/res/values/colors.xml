@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="background">#242d35</color>
+    <color name="white">#f5f6f7</color>
+    <color name="BluishGray">#14202a</color>
+    <color name="Blue">#2144f2</color>
+    <color name="Red">#FF0000</color>
+    <color name="Green">#00FF00</color>
+
+    <color name="category1">#FEEC41</color>
+    <color name="category2">#D51C39</color>
+    <color name="category3">#C13383</color>
+    <color name="category4">#121358</color>
+    <color name="category5">#121358</color>
+</resources>
