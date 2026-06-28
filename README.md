@@ -16,11 +16,11 @@ A modern **Personal Finance Management Android Application** built with **Kotlin
 
 | Home                      | Add Transaction                      |
 | ------------------------- | ------------------------------------ |
-| ![](screenshots/home.png) | ![](screenshots/add_transaction.png) |
+| ![](app/src/main/res/drawable/home.jpg) | ![](app/src/main/res/drawable/add_transaction.jpg) |
 
 | Statistics                 |
 | -------------------------- |
-| ![](screenshots/stats.png) |
+| ![](app/src/main/res/drawable/stats.jpg) |
 
 ---
 
