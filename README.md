@@ -14,13 +14,13 @@ A modern **Personal Finance Management Android Application** built with **Kotlin
 ## 📱 Screenshots
 
 
-| Home                      | Add Transaction                      | Statistics                 |
-| ------------------------- | ------------------------------------ | -------------------------- |
-| ![](screenshots/home.png) | ![](screenshots/add_transaction.png) | ![](screenshots/stats.png) |
+| Home                      | Add Transaction                      |
+| ------------------------- | ------------------------------------ |
+| ![](screenshots/home.png) | ![](screenshots/add_transaction.png) |
 
-| Transaction History          | Category Selection            |
-| ---------------------------- | ----------------------------- |
-| ![](screenshots/history.png) | ![](screenshots/category.png) |
+| Statistics                 |
+| -------------------------- |
+| ![](screenshots/stats.png) |
 
 ---
 
